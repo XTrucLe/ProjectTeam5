@@ -1,5 +1,5 @@
 import java.util.*;
-
+//
 public class DiceParser{
     /* this is a helper class to manage the input "stream"*/
     private static class StringStream{
